@@ -1,0 +1,5 @@
+include ':myinjection'
+include ':myfeature'
+include ':mylibrary'
+include ':app'
+rootProject.name = "ArchitectureApplication"

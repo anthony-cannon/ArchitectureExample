@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ArchitectureApplication</string>
+    <string name="title_myfeature">myfeature</string>
+    <string name="title_activity_feature">FeatureActivity</string>
+</resources>
